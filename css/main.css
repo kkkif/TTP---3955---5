@@ -84,8 +84,8 @@ body.hidden {
 }
 
 main {
-  background: url(../img/snake.png) no-repeat right 0 top 15%;
-  background-size: 30%;
+  background: url(../img/cube.png) no-repeat right 0 top 15%;
+  background-size: 25%;
 }
 @media (max-width: 850px) {
   main {
@@ -239,6 +239,7 @@ main {
     font-weight: 600;
     font-size: 15px;
     padding: 10px 10px;
+    margin-right: 10px;
   }
 }
 @media (max-width: 850px) {
